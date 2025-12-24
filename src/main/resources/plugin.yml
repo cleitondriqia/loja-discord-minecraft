@@ -1,0 +1,4 @@
+name: DiscordLink
+version: 1.0
+main: com.loja.DiscordLinkPlugin
+api-version: 1.20
